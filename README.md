@@ -8,4 +8,4 @@ sudo setxkbmap -v 10 -layout eurkey
 ````
 
 This works but the layout doesn't show up in `xfce4-keyboard-settings`.
-Also the change is lost after logout. Any help much appreciated.
+Also the change is lost after logout, I have to do `sudo setxkbmap -layout eurkey` again. Any help is much appreciated!
