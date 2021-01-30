@@ -4,7 +4,7 @@ Adding this here, as it's not available yet for my distro (fedora xfce spin). I 
 
 ````sh
 sudo cp eurkey /usr/share/X11/xkb/symbols/
-setxkbmap -v 10 -layout eurkey
+sudo setxkbmap -v 10 -layout eurkey
 ````
 
 This works but the layout doesn't show up in `xfce4-keyboard-settings`.
